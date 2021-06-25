@@ -28,5 +28,5 @@ The Java program provides an interface to the user to access, insert, delete and
 9.	 **Exit the Program**
 
 <p align="center">
-    Screenshots From This Project
+    **Screenshots From This Project**
  </p>
