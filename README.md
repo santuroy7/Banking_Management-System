@@ -17,7 +17,7 @@ Using this option the user needs to provide the information such as cust_no, nam
 Using this option the user needs to provide the cust_no of a customer through user input and all the information related to that customer will be deleted from the database. After that using option 1, details of all the customers will be displayed in particular format.
 4.	Update Customer Information:
 Using this option the user needs to provide the cust_no of a customer through user input and based on the following choice the information related to the customer will be updated. 4.1: Update name 4.2: Update Phoneno. 4.3: Update city After that using option 1, details of all the customers will be displayed in particular format.
-5.	 Show Account Details of a Customer:
+5.	 * Show Account Details of a Customer:
 Using this option the user needs to provide the cust_no of a customer through user input and all the information of that customer along with his account_no, type, balance, branch_code, branch_name and branch_city will be displayed in proper format.
 6.	 Show Loan Details of a Customer: 
 Using this option the user needs to provide the cust_no of a customer through user input and all the information of that customer along with his loan_no, loan amount, branch_code, branch_name and branch_city will be displayed in proper format.
