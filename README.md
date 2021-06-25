@@ -26,6 +26,7 @@ The Java program provides an interface to the user to access, insert, delete and
 8.	 **Withdraw Money from an Account:** 
 * Using this option the user needs to provide the account_no of a customer and the amount to be withdraw through user input. According to the withdraw amount the updated balance will be verified in proper format using option 5.
 9.	 **Exit the Program**
+* Exit from the system!
 
 
     ### Screenshots From This Project
