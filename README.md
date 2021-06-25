@@ -29,9 +29,12 @@ The Java program provides an interface to the user to access, insert, delete and
 * Exit from the system!
 
 
-### Screenshots From This Project
+### Screenshots From This Project:-
      
   <img src="https://github.com/santuroy7/Banking_Management-System/blob/main/images/ss1.jpg">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamsagar524&count_private=true&theme=dracula">
+  <img src="https://github.com/santuroy7/Banking_Management-System/blob/main/images/ss2.jpg">
+  <img src="https://github.com/santuroy7/Banking_Management-System/blob/main/images/ss3.jpg">
+  <img src="https://github.com/santuroy7/Banking_Management-System/blob/main/images/ss4.jpg">
+  <img src="https://github.com/santuroy7/Banking_Management-System/blob/main/images/ss5.jpg">
 
  
