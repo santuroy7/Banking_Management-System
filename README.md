@@ -30,5 +30,8 @@ The Java program provides an interface to the user to access, insert, delete and
 
 
     ### Screenshots From This Project
-      <img src="https://github.com/santuroy7/Banking_Management-System/blob/main/images/ss1.jpg">
+      <p align="center">
+  <img src="https://github.com/santuroy7/Banking_Management-System/blob/main/images/ss1.jpg">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamsagar524&count_private=true&theme=dracula">
+</p>
  
