@@ -27,6 +27,7 @@ The Java program provides an interface to the user to access, insert, delete and
 * Using this option the user needs to provide the account_no of a customer and the amount to be withdraw through user input. According to the withdraw amount the updated balance will be verified in proper format using option 5.
 9.	 **Exit the Program**
 
-<p align="center">
-    **Screenshots From This Project**
- </p>
+
+    ### Screenshots From This Project
+      <img src="https://github.com/santuroy7/Banking_Management-System/blob/main/images/ss1.jpg">
+ 
