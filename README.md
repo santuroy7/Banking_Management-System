@@ -1,7 +1,7 @@
 # Banking Management System 
 ## Requirements:
 - JDK 8 or above
-- JDBC Connector
+- <a href="https://dev.mysql.com/downloads/connector/j/">JDBC Connector</a>
 - MySql
 ## Overview of the Project: 
 - A Banking Management System is designed, putting together the concepts of MySql database and JDBC connectivity.
